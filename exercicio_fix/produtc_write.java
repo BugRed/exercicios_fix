@@ -8,9 +8,9 @@ public class produtc_write {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite o código do Item:");
-		int cod1 = sc.nextInt();
-		sc.nextLine();
+		//System.out.println("Digite o código do Item:");
+		//int cod1 = sc.nextInt();
+		//sc.nextLine();
 		System.out.println("Digite a quantidade de Itens:");
 		int quant1 = sc.nextInt();
 		sc.nextLine();
@@ -19,9 +19,9 @@ public class produtc_write {
 		sc.nextLine();
 		
 		
-		System.out.println("Digite o código do Item:");
-		int cod2 = sc.nextInt();
-		sc.nextLine();
+		//System.out.println("Digite o código do Item:");
+		//int cod2 = sc.nextInt();
+		//sc.nextLine();
 		System.out.println("Digite a quantidade de Itens:");
 		int quant2 = sc.nextInt();
 		sc.nextLine();
