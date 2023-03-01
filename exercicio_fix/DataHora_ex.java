@@ -20,9 +20,9 @@ public class DataHora_ex {
 		System.out.println(s);
 		}*/
 		
-		LocalDate d01 = LocalDate.now();
+		//LocalDate d01 = LocalDate.now();
 		LocalDateTime d02 = LocalDateTime.now();
-		Instant d03 = Instant.now();
+		//Instant d03 = Instant.now();
 		
 		LocalDate d04 = LocalDate.parse("1994-05-20");
 		LocalDateTime d05 = LocalDateTime.parse("1994-05-20T02:15:30");
